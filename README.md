@@ -8,6 +8,7 @@ took me about 2 weeks reading docs and implementing it for my $0 MRR SaaS hh [te
 
 Some of my friends also needed to use it, and why not sharing it publicly with my network hh,
 Anyways, my code sucks I know that, if you think you can fix it, send your PR.
+
 ---
 
 [Official Paypal Api Documentation](https://developer.paypal.com/api/rest/)
