@@ -1,0 +1,9 @@
+payment:
+  paypal:
+    client-id:
+    secret:
+    api:
+#     base-url: https://api-m.paypal.com/
+      # you can use sandbox for testing
+      base-url: https://api-m.sandbox.paypal.com/
+
