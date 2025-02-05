@@ -4,7 +4,7 @@
 2. Just kidding hh
 
 I'v been struggling to integrate paypal payment gateway in my apps, since it's the only option I have no (stripe/lemonSqueezy/paddle/fastSpring....),
-took me about 2 weeks reading docs and implementing it for my $0 MRR SaaS hh [telegdash.com](telegdash.com).
+took me about 2 weeks reading docs and implementing it for my SaaS hh [telegdash.com](https://telegdash.com).
 
 Some of my friends also needed to use it, and why not sharing it publicly with my network hh,
 Anyways, my code sucks I know that, if you think you can fix it, send your PR.
